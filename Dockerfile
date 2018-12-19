@@ -33,4 +33,4 @@ COPY --from=publish /app/testt/out ./
 
 #expose a port and run it!
 EXPOSE 80
-ENTRYPOINT ["./testt"]
+ENTRYPOINT ["dotnet","testt.dll"]
