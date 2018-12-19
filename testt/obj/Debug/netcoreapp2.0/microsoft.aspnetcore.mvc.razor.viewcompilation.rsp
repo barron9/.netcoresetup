@@ -1,0 +1,12 @@
+c:\Users\berkin1\Downloads\.netcoresetup\testt
+--output-path=obj\Debug\netcoreapp2.0\
+--application-name=testt
+--content-root=c:\Users\berkin1\Downloads\.netcoresetup\testt
+--file=c:\Users\berkin1\Downloads\.netcoresetup\testt\Views\Home\About.cshtml
+--file=c:\Users\berkin1\Downloads\.netcoresetup\testt\Views\Home\Contact.cshtml
+--file=c:\Users\berkin1\Downloads\.netcoresetup\testt\Views\Home\Index.cshtml
+--file=c:\Users\berkin1\Downloads\.netcoresetup\testt\Views\Shared\Error.cshtml
+--file=c:\Users\berkin1\Downloads\.netcoresetup\testt\Views\Shared\_Layout.cshtml
+--file=c:\Users\berkin1\Downloads\.netcoresetup\testt\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=c:\Users\berkin1\Downloads\.netcoresetup\testt\Views\_ViewImports.cshtml
+--file=c:\Users\berkin1\Downloads\.netcoresetup\testt\Views\_ViewStart.cshtml

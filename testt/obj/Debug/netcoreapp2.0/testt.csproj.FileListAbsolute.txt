@@ -9,3 +9,14 @@
 /Users/interlink/Projects/testt/testt/obj/Debug/netcoreapp2.0/testt.AssemblyInfo.cs
 /Users/interlink/Projects/testt/testt/obj/Debug/netcoreapp2.0/testt.dll
 /Users/interlink/Projects/testt/testt/obj/Debug/netcoreapp2.0/testt.pdb
+C:\Users\berkin1\Downloads\.netcoresetup\testt\bin\Debug\netcoreapp2.0\testt.deps.json
+C:\Users\berkin1\Downloads\.netcoresetup\testt\bin\Debug\netcoreapp2.0\testt.runtimeconfig.json
+C:\Users\berkin1\Downloads\.netcoresetup\testt\bin\Debug\netcoreapp2.0\testt.runtimeconfig.dev.json
+C:\Users\berkin1\Downloads\.netcoresetup\testt\bin\Debug\netcoreapp2.0\testt.dll
+C:\Users\berkin1\Downloads\.netcoresetup\testt\bin\Debug\netcoreapp2.0\testt.pdb
+C:\Users\berkin1\Downloads\.netcoresetup\testt\obj\Debug\netcoreapp2.0\testt.csprojAssemblyReference.cache
+C:\Users\berkin1\Downloads\.netcoresetup\testt\obj\Debug\netcoreapp2.0\testt.csproj.CoreCompileInputs.cache
+C:\Users\berkin1\Downloads\.netcoresetup\testt\obj\Debug\netcoreapp2.0\testt.AssemblyInfoInputs.cache
+C:\Users\berkin1\Downloads\.netcoresetup\testt\obj\Debug\netcoreapp2.0\testt.AssemblyInfo.cs
+C:\Users\berkin1\Downloads\.netcoresetup\testt\obj\Debug\netcoreapp2.0\testt.dll
+C:\Users\berkin1\Downloads\.netcoresetup\testt\obj\Debug\netcoreapp2.0\testt.pdb
