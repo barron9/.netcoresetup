@@ -1,0 +1,11 @@
+/Users/interlink/Projects/testt/testt/bin/Release/netcoreapp2.0/testt.deps.json
+/Users/interlink/Projects/testt/testt/bin/Release/netcoreapp2.0/testt.runtimeconfig.json
+/Users/interlink/Projects/testt/testt/bin/Release/netcoreapp2.0/testt.runtimeconfig.dev.json
+/Users/interlink/Projects/testt/testt/bin/Release/netcoreapp2.0/testt.dll
+/Users/interlink/Projects/testt/testt/bin/Release/netcoreapp2.0/testt.pdb
+/Users/interlink/Projects/testt/testt/obj/Release/netcoreapp2.0/testt.csproj.CoreCompileInputs.cache
+/Users/interlink/Projects/testt/testt/obj/Release/netcoreapp2.0/testt.AssemblyInfoInputs.cache
+/Users/interlink/Projects/testt/testt/obj/Release/netcoreapp2.0/testt.AssemblyInfo.cs
+/Users/interlink/Projects/testt/testt/obj/Release/netcoreapp2.0/testt.dll
+/Users/interlink/Projects/testt/testt/obj/Release/netcoreapp2.0/testt.pdb
+/Users/interlink/Projects/testt/testt/obj/Release/netcoreapp2.0/testt.csprojAssemblyReference.cache
