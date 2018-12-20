@@ -5,7 +5,7 @@
 <header>
     <div class="hadar">
         <div class="btns">
-        <button class="button-primary-text" style="margin: 0 0 auto" onclick="myFunction()">Giriş Yap</button>
+            <button class="button-primary-text" style="margin: auto;" onclick="myFunction()">Giriş Yap</button>
         </div>
     </div>
     <h1 class="title">Barron & Co.</h1>
@@ -29,7 +29,7 @@
                     <hr>
 
 
-                    <button class="button-primary">Hemen Başvur</button>
+                    <button class="button-primary" onclick="showalert(1)">Hemen Başvur</button>
                 </div>
             </div>
             <div class="col col-sm-4">
@@ -42,12 +42,12 @@
                         <li>Anlık Şirket Haberleri</li>
                         <li>Günlük Borsa Analizi</li>
                     </ul>
-                    <p class="price over" >$9 / Ay</p>
+                    <p class="price over">$9 / Ay</p>
                     <p class="disclaimer">3 Ay SADECE $25</p>
                     <hr>
 
 
-                    <button class="button-primary">Hemen Başvur</button>
+                    <button class="button-primary" onclick="showalert(2)">Hemen Başvur</button>
                 </div>
             </div>
             <div class="col col-sm-4">
@@ -65,12 +65,30 @@
                     <hr>
 
 
-                    <button class="button-primary">Hemen Başvur</button>
+                    <button class="button-primary" onclick="showalert(3)">Hemen Başvur</button>
                 </div>
             </div>
         </div>
 
     </section>
+
+    <div class="modal-mask" id="modal-mask" style="display:none">
+        <div class="modal" id="modal">
+            <div class="modal-head">
+                <p class="modal-title">Yeni Kayıt</p>
+            </div>
+            <div class="modal-body">
+                <p>Bakım çalışması nedeniyle geçici olarak isteğinizi gerçekleştiremiyoruz</p>
+            </div>
+            <div class="modal-footer">
+                <button class="button-primary" onclick="hidealert();
+                window.location.href = '/';
+">
+                    TAMAM
+                </button>
+            </div>
+        </div>
+    </div>
 
     <a class="scroll-down" href="#"></a>
 </header>
