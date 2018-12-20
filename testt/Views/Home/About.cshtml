@@ -35,8 +35,8 @@
             </div>
 
 </section>
-    <div class="modal-mask">
-        <div class="modal">
+    <div class="modal-mask" id="modal-mask">
+        <div class="modal" id="modal">
             <div class="modal-head">
                 <p class="modal-title">Barron Invest</p>
             </div>
@@ -44,7 +44,9 @@
                 <p>Bakım çalışması nedeniyle geçici olarak isteğinizi gerçekleştiremiyoruz</p>
             </div>
             <div class="modal-footer">
-                <button class="button-primary">TAMAM</button>
+                <button class="button-primary" onclick="hidealert();
+                window.location.href = '/';
+">TAMAM</button>
             </div>
         </div>
     </div>
