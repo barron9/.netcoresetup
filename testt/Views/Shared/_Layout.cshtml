@@ -28,6 +28,19 @@
     <!-- Mustard UI -->
     <link rel="stylesheet" href="https://unpkg.com/mustard-ui@latest/dist/css/mustard-ui.min.css">
     <style>
+        @@media screen and (max-width: 300px) {
+            .package {
+                display: none
+            }
+
+            .pricing-table {
+                display: none
+            }
+
+            .card {
+                width: 200px
+            }
+        }
         @@media screen and (max-width: 600px) {
         .package{
         display:none
@@ -40,7 +53,7 @@
         }
 
 }
-        @@media screen and (max-width: 1200px) {
+        @@media screen and (min-width: 600px) {
             .card {
                 width: 500px
             }
