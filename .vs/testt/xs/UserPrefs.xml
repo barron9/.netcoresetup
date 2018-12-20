@@ -1,9 +1,10 @@
 ﻿<Properties StartupConfiguration="{56F2EDB8-3E8D-4777-8BA7-8FE531B4C4EE}|Default">
   <MonoDevelop.Ide.ItemProperties.testt PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="testt/Views/Home/Index.cshtml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="testt/Views/Shared/_Layout.cshtml">
     <Files>
-      <File FileName="testt/Views/Home/Index.cshtml" Line="16" Column="25" />
+      <File FileName="testt/Views/Home/Index.cshtml" Line="7" Column="57" />
       <File FileName="testt/Views/Shared/_Layout.cshtml" Line="1" Column="1" />
+      <File FileName="testt/Views/Home/About.cshtml" Line="3" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
